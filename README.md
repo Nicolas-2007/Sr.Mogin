@@ -1,7 +1,7 @@
 # Sr.Mogin
 
 <p align="center">
-<img width="65%" src="https://cdn.discordapp.com/avatars/799638605039140894/964fbb4addbcb956b7fa4749187296a4.png">
+<img width="40%" src="https://cdn.discordapp.com/avatars/799638605039140894/964fbb4addbcb956b7fa4749187296a4.png">
 <br>
 <h1 align="center">⚡ Sr.Mogin ⚡</h1>
 
