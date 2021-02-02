@@ -7,8 +7,8 @@
 
 <p align="center">
 <a href="https://top.gg/bot/799638605039140894">
-<img src="https://cdn.discordapp.com/attachments/786311889910104114/805532571491500042/unknown.png" alt="Vote and gain benefits!" />
-</a> 
+    <img src="https://top.gg/api/widget/799638605039140894.svg" alt="Coxinhu" />
+</a>
 
 ## ⚡ Quer me adicionar?
 ### [Clique aqui!](https://discord.com/oauth2/authorize?client_id=799638605039140894&scope=bot&permissions=8)
